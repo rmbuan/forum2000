@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introduction">
+		<param name="Local" value="html\introduction.htm">
+		<param name="ImageNumber" value="17">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="New features in this release">
+		<param name="Local" value="html\features.htm">
+		<param name="ImageNumber" value="12">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Running Forum 2000">
+		<param name="Local" value="html\intro.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Creating New Forum">
+		<param name="Local" value="html\new-forum.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Edit / Delete Forums">
+			<param name="Local" value="html\Edit-del-forum.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Creating New Message">
+		<param name="Local" value="html\new-message.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="View / Deleting Messages">
+			<param name="Local" value="html\new-view-del-message.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="About the Author">
+		<param name="Local" value="html\author.htm">
+		<param name="ImageNumber" value="27">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Buan Family Website">
+			<param name="Local" value="http://buan.dhs.org/">
+			<param name="ImageNumber" value="15">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="License Agreement">
+		<param name="Local" value="html\disclaimer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="How to Register">
+		<param name="Local" value="html\howtoregister.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MB Software">
+		<param name="Local" value="http://mbsoft.dhs.org/">
+		<param name="ImageNumber" value="15">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Telanis Group">
+		<param name="Local" value="http://telanis.dhs.org/">
+		<param name="ImageNumber" value="15">
+		</OBJECT>
+</UL>
+</BODY></HTML>

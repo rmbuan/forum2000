@@ -1,0 +1,29 @@
+Vbox Builder has created:
+
+1. The Vboxed application file(s):
+ - D:\projects\MBSoftware\Visual Basic\Forum 2000\Forum2000.exe
+
+2. The Vbox Client setup EXE (For you to include with your installer):
+ - D:\projects\MBSoftware\Visual Basic\Forum 2000\VSetupT.exe
+
+Your original application file(s) has/have been backed up to:
+ - D:\projects\MBSoftware\Visual Basic\Forum 2000\Forum2000.exe.bak
+
+The trial environment on this machine has also been reset for this Vboxed application so that you can test it as a new user.
+
+You can test your Vboxed application by running D:\projects\MBSoftware\Visual Basic\Forum 2000\VSetupT.exe and then launching your application.
+
+To distribute the Vboxed application, please make the following changes to your installer:
+
+1. Replace your original executable(s) with: 
+ - D:\projects\MBSoftware\Visual Basic\Forum 2000\Forum2000.exe
+
+2. Add the Vbox Client setup EXE:
+ - D:\projects\MBSoftware\Visual Basic\Forum 2000\VSetupT.exe
+to your installer and modify your installer to execute it as a part of your normal installation procedure. VSetupT.exe will install all the components of the Vbox Client in the correct locations.
+
+VSetupT.exe uses the process exit code to indicate the execution result: 0 means success, 1 means failure.
+
+Preview recommends you delete VsetupT.exe after your installation process is complete to prevent users from running it independently of your installer and overwriting the license file.
+
+NOTE: If your setup program runs any of the Vboxed executables during the installation procedure (e.g, register an ActiveX control), please make sure that the setup program runs VSetupT.exe before it runs the Vboxed executables.

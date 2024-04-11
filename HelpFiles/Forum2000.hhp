@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Forum2000.chm
+Contents file=toc-forum2000.hhc
+Default topic=html\introduction.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x1009 English (Canada)
+Title=MB Software - Forum 2000 v1.0
+
+
+[FILES]
+html\intro.htm
+html\introduction.htm
+
+[INFOTYPES]
+
